@@ -1,7 +1,7 @@
 {
   "name": "nr-test-plugin",
   "main": "./lib/nr-test-plugin",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "testing create package on atom",
   "keywords": [],
   "repository": "https://github.com/narospol/nr-test-plugin.git",
