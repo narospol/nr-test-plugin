@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle nr-test-plugin",
+        "command": "nr-test-plugin:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "nr-test-plugin",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "nr-test-plugin:toggle"
+            },
+            {
+              "label": "Second Command",
+              "command": "nr-test-plugin:second"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
