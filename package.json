@@ -1,10 +1,9 @@
 {
   "name": "nr-test-plugin",
   "main": "./lib/nr-test-plugin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "testing create package on atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "nr-test-plugin:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
