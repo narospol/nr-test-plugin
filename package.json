@@ -4,9 +4,6 @@
   "version": "0.2.0",
   "description": "testing create package on atom",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "nr-test-plugin:toggle"
-  },
   "repository": "https://github.com/narospol/nr-test-plugin.git",
   "license": "MIT",
   "engines": {
